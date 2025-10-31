@@ -1,0 +1,45 @@
+# Game Metadata
+
+name: "DODGE IT - Flutter 2D Arcade"
+tagline: "Play or Die"
+version: "1.0.0"
+category: "Arcade Game"
+
+description: |
+  A fast-paced 2D arcade game where you dodge falling objects and survive 
+  as long as possible. No registration required - just pure arcade action!
+
+features:
+  - "One-touch swipe controls"
+  - "Fast-paced arcade gameplay"
+  - "Real-time score tracking"
+  - "Colorful graphics with glowing effects"
+  - "Cross-platform (Android, iOS, Web)"
+  - "No registration or login required"
+  - "Instant play experience"
+
+gameplay:
+  objective: "Survive as long as possible by dodging falling objects"
+  controls: "Swipe left or right to move your player"
+  scoring: "Score increases based on survival time"
+  difficulty: "Constant with random object patterns"
+
+technical:
+  framework: "Flutter 3.0+"
+  language: "Dart"
+  platforms:
+    - "Android (API 21+)"
+    - "iOS (12+)"
+    - "Web (PWA)"
+  architecture: "Single-page game with state management"
+  
+theme:
+  style: "Arcade retro with modern effects"
+  colors:
+    - "Purple and blue gradients"
+    - "Neon glow effects"
+    - "High contrast for visibility"
+    
+target_audience: "Casual gamers, all ages"
+play_time: "Quick sessions (1-5 minutes)"
+complexity: "Easy to learn, hard to master"
